@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+This Machine Learning model basically predicts the retention rate of the employees in a company based on features such as salary , years of experience , department , average monthly hours and promotions.Logistic regression method for supervised learning has been applied here to make predictions based on training set. 
